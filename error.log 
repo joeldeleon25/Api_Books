@@ -1,0 +1,3 @@
+{"level":"error"}
+{"level":"error"}
+{"level":"error","message":"Cannot create property 'Symbol(level)' on string 'connected to mongo DB Atlas'"}
